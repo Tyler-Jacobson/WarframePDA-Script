@@ -20,8 +20,8 @@ items = [
 
 
 def get_token():
-    client_id = "psf328if3bf87bfseyd887esfsudfi0z"
-    client_secret = "o8h43rn3qiufb3uq2fb43hvfy3fv4g3w"
+    client_id = ""
+    client_secret = ""
 
     unencoded_key = client_id + ":" + client_secret
 
